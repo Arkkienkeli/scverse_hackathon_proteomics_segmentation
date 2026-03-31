@@ -1,8 +1,10 @@
 # scverse hackathon proteomics segmentation
 30-31.03.26 scverse proteomics hackathon - segmentation project
+
 Nikita Moshkov, Friedrich Preusser, Omar Elakad
 
 Work with [CRC Schuerch dataset (2020)](https://linkinghub.elsevier.com/retrieve/pii/S0092-8674(20)30870-9)
+[Single image to download.](https://drive.google.com/file/d/1h-DKw5c43v5DXcfyhH19IL8pLBH8AtpE/view?usp=drive_link)
 
 Main tasks:
 1. Segment TMA's with Mesmer.
