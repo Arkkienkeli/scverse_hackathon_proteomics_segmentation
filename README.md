@@ -11,7 +11,7 @@ Main tasks:
 2. Measure which cells are positive for mutually exclusive markers (use standard deviation as a threshold).
 3. QC wrt to cell area and DRAQ5 intensity in the cell region.
 _______
-Uncertanity estimation: 
+Uncertainty estimation: 
 1. Segment rotate and flipped versions of images to evaluate uncertanity (test-time augmentation).
 2. Measure agreement of segmentations.
 _______
